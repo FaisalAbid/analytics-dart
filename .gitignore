@@ -11,4 +11,12 @@ packages
 *.js.map
 
 # Include when developing application packages.
+=======
+.buildlog
+.DS_Store
+.idea
+.packages
+.pub/
+build/
+packages
 pubspec.lock

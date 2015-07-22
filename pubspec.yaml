@@ -1,0 +1,14 @@
+name: segment-analytics
+description: Segment.io bindings for Analytics on Dart server side
+version: 0.0.1
+author: Faisal Abid faisal.abid@gmail.com
+homepage: https://www.faisalabid.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  http: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
